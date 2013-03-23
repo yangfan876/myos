@@ -1,0 +1,24 @@
+#define	PIC_MASTER_IMR 0x21	
+#define PIC_SLAVE_IMR 0xa1	
+
+#define PIC_MASTER_CMR 0x20
+#define PIC_SLAVE_CMR 0xa0	
+
+#define IRQ0_VECTOR	0x30
+#define IRQ1_VECTOR	0x31
+#define IRQ2_VECTOR	0x32
+#define IRQ3_VECTOR	0x33
+#define IRQ4_VECTOR	0x34
+#define IRQ5_VECTOR	0x35
+#define IRQ6_VECTOR	0x36
+#define IRQ7_VECTOR	0x37
+#define IRQ8_VECTOR	0x38
+#define IRQ9_VECTOR	0x39
+#define IRQ10_VECTOR 0x40
+#define IRQ11_VECTOR 0x41
+#define IRQ12_VECTOR 0x42
+#define IRQ13_VECTOR 0x43
+#define IRQ14_VECTOR 0x44
+#define IRQ15_VECTOR 0x45
+
+
